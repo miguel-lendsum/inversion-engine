@@ -25,7 +25,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import org.omg.CosNaming.IstringHelper;
+// import org.omg.CosNaming.IstringHelper;
 
 import io.inversion.cloud.jdbc.db.JdbcDb;
 import io.inversion.cloud.jdbc.utils.JdbcUtils;
